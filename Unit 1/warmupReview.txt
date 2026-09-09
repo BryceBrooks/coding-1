@@ -1,0 +1,5 @@
+# Characters, string, hastag, and integers
+# A digital space to store files
+# Computer keyboard is an input device because it sends in information into the Computer to know what im typing
+# A space to store data
+# That variables must start with a letter and a number
