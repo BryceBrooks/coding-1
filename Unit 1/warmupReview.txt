@@ -1,4 +1,4 @@
-# Characters, string, hastag, and integers
+# floats, String, Boolean, and Integers
 # A digital space to store files
 # Computer keyboard is an input device because it sends in information into the Computer to know what im typing
 # A space to store data
