@@ -6,3 +6,4 @@ print("Coding 1" == "coding1")
 # false
 print("0" != 0)
 # true
+print(10.99)
