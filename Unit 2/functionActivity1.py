@@ -10,3 +10,11 @@
 # 2.
 num2= input(" hey im here type something!!")
 print(360 + int(num2))
+
+val= input()
+print(int(val) + 360)
+
+
+val= input("")
+val2= "Boys Latin"
+print (val == val2)
