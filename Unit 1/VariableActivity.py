@@ -9,13 +9,13 @@
 
 appleCount = 42
 numberofStudents = 27
-YesinsuranceCost = $100,000
+YesinsuranceCost = "$100,000"
 BrozeMembership = 27
 SilverMembership = 15
 GoldMembership = 7
-Drink1 = $17
-Drink2 = $15
-Drink3 = $10
+Drink1 = "$17"
+Drink2 = "$15"
+Drink3 = "$10"
 
 # Variable Naming Conventions
 # we use naming conventions because we CANNOT have specs in
