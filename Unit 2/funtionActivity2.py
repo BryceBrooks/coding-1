@@ -8,9 +8,10 @@
 
 
 def compareVal():
-    numA= input()
-    numB= input()
-    print(numA < numB)
+    print("Comparing numbers: PROGRAM RUNNING")
+    valA= int(input())
+    valB= int(input())
+    print(valA < valB)
 
 compareVal()
 
