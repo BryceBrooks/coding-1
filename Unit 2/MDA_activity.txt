@@ -1,0 +1,3 @@
+Flappy bird uses click function to control the subject into dogding pillars
+its no real ending to the game the only thing you do is click the spacebar
+or the left click of the mouse 
