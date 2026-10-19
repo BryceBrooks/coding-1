@@ -1,3 +1,8 @@
 Flappy bird uses click function to control the subject into dogding pillars
 its no real ending to the game the only thing you do is click the spacebar
 or the left click of the mouse 
+
+Q1: The game we wanted to make was inspired by jetpack joyride. We'd make it our own by using
+different sprites and different backgrounds.
+Q2: We want the players to move foward and up at the same time with only one button input.
+Q3: The game would be endless so it'd end when the player hits an obstacle
