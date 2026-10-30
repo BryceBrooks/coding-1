@@ -45,3 +45,33 @@ fighters = [fighter_B, fighter_A]
 for fighterName in fighters:
     print("name of fighters: " +str(fighterName[0]))
     print("health of fighters: " +str(fighterName[1]))
+
+# Lists - Containers that allow us to store multiple pieces of data
+# (data types, variables, other lists, etc)
+
+# Lists keep our data structed and organized
+
+drink = []
+sandwiches = []
+soups = []
+wawa_kisosk = drink, sandwiches, soups
+
+# When select an item, we use the indexing system of a list
+inventory = [ "weapon" , "healing kit" , "armor" , "grenade"]
+
+# lists are 0 based indexing systems, MEANING - the first item
+# in a list starts with 0.
+print(inventory[0])
+
+# Lists are also changable and manipulatable ( mutable)
+
+# when we want to add items we use the append() method
+
+inventory.append("knife")
+print(inventory)
+
+inventory.remove("healing kit")
+print(inventory)
+
+inventory.insert(3, "healing kit")
+print(inventory)
